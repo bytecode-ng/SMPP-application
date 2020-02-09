@@ -14,6 +14,7 @@ namespace InetLabSMPP
 {
     public class Program
     {
+        //Entry Point
         public static void Main(string[] args)
         {
             
@@ -63,6 +64,6 @@ namespace InetLabSMPP
            // services.AddScoped<IServiceA, ServiceA>();
             //services.AddScoped<IServiceB, ServiceB>();
         })
-                .UseSerilog();
+                .UseSerilog();// used for logging
     }
 }
