@@ -1,0 +1,11 @@
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\bin\Debug\netcoreapp2.1\InetLabSMPP.deps.json
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\bin\Debug\netcoreapp2.1\InetLabSMPP.runtimeconfig.json
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\bin\Debug\netcoreapp2.1\InetLabSMPP.runtimeconfig.dev.json
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\bin\Debug\netcoreapp2.1\InetLabSMPP.dll
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\bin\Debug\netcoreapp2.1\InetLabSMPP.pdb
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\obj\Debug\netcoreapp2.1\InetLabSMPP.AssemblyInfoInputs.cache
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\obj\Debug\netcoreapp2.1\InetLabSMPP.AssemblyInfo.cs
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\obj\Debug\netcoreapp2.1\InetLabSMPP.dll
+C:\Users\Peter.Ogbeto\source\repos\InetLabSMPP\InetLabSMPP\obj\Debug\netcoreapp2.1\InetLabSMPP.pdb
